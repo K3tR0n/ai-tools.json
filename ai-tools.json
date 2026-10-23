@@ -89,13 +89,6 @@
       "released": "2026-03"
     },
     {
-      "key": "gpt-5.3-instant",
-      "name": "GPT-5.3 Instant",
-      "vendor": "OpenAI",
-      "category": "chat",
-      "released": "2026-03"
-    },
-    {
       "key": "gpt-5.3-codex",
       "name": "GPT-5.3-Codex",
       "vendor": "OpenAI",
@@ -131,20 +124,6 @@
       "released": "2025-08"
     },
     {
-      "key": "gpt-oss",
-      "name": "gpt-oss (open-weight)",
-      "vendor": "OpenAI",
-      "category": "chat",
-      "released": "2025-08"
-    },
-    {
-      "key": "o3",
-      "name": "o3",
-      "vendor": "OpenAI",
-      "category": "chat",
-      "released": "2025-04"
-    },
-    {
       "key": "gpt-4.1",
       "name": "GPT-4.1",
       "vendor": "OpenAI",
@@ -159,60 +138,11 @@
       "released": "2025-02"
     },
     {
-      "key": "o1",
-      "name": "o1",
-      "vendor": "OpenAI",
-      "category": "chat",
-      "released": "2024-12"
-    },
-    {
-      "key": "gpt-4o-mini",
-      "name": "GPT-4o mini",
-      "vendor": "OpenAI",
-      "category": "chat",
-      "released": "2024-07"
-    },
-    {
-      "key": "chatgpt-4o",
-      "name": "ChatGPT-4o",
-      "vendor": "OpenAI",
-      "category": "chat",
-      "released": "2024-05"
-    },
-    {
-      "key": "gpt-4",
-      "name": "GPT-4",
-      "vendor": "OpenAI",
-      "category": "chat",
-      "released": "2023-03"
-    },
-    {
-      "key": "gpt-3.5",
-      "name": "GPT-3.5",
-      "vendor": "OpenAI",
-      "category": "chat",
-      "released": "2022-11"
-    },
-    {
       "key": "chatgpt-deep-research",
       "name": "ChatGPT Deep Research",
       "vendor": "OpenAI",
       "category": "chat",
       "released": "2025-02"
-    },
-    {
-      "key": "openai-codex",
-      "name": "Codex",
-      "vendor": "OpenAI",
-      "category": "chat",
-      "released": "2025-05"
-    },
-    {
-      "key": "chatgpt",
-      "name": "ChatGPT",
-      "vendor": "OpenAI",
-      "category": "chat",
-      "label": "ChatGPT (OpenAI) – other / unspecified version"
     },
     {
       "key": "claude-fable-5.1",
@@ -334,20 +264,6 @@
       "released": "2025-05"
     },
     {
-      "key": "claude-3.7-sonnet",
-      "name": "Claude 3.7 Sonnet",
-      "vendor": "Anthropic",
-      "category": "chat",
-      "released": "2025-02"
-    },
-    {
-      "key": "claude-3.5-haiku",
-      "name": "Claude 3.5 Haiku",
-      "vendor": "Anthropic",
-      "category": "chat",
-      "released": "2024-10"
-    },
-    {
       "key": "claude-3.5-sonnet",
       "name": "Claude 3.5 Sonnet",
       "vendor": "Anthropic",
@@ -360,27 +276,6 @@
       "vendor": "Anthropic",
       "category": "chat",
       "released": "2024-03"
-    },
-    {
-      "key": "claude-code",
-      "name": "Claude Code",
-      "vendor": "Anthropic",
-      "category": "chat",
-      "released": "2025-05"
-    },
-    {
-      "key": "claude-sonnet",
-      "name": "Claude Sonnet",
-      "vendor": "Anthropic",
-      "category": "chat",
-      "label": "Claude Sonnet (Anthropic) – other / unspecified version"
-    },
-    {
-      "key": "claude",
-      "name": "Claude",
-      "vendor": "Anthropic",
-      "category": "chat",
-      "label": "Claude (Anthropic) – other / unspecified version"
     },
     {
       "key": "gemini-4-argon",
@@ -446,13 +341,6 @@
       "released": "2025-12"
     },
     {
-      "key": "gemini-3-deep-think",
-      "name": "Gemini 3 Deep Think",
-      "vendor": "Google",
-      "category": "chat",
-      "released": "2025-12"
-    },
-    {
       "key": "gemini-3-pro",
       "name": "Gemini 3 Pro",
       "vendor": "Google",
@@ -467,34 +355,6 @@
       "released": "2025-03"
     },
     {
-      "key": "gemini-2.5-flash",
-      "name": "Gemini 2.5 Flash",
-      "vendor": "Google",
-      "category": "chat",
-      "released": "2025-04"
-    },
-    {
-      "key": "gemini-2.5-flash-lite",
-      "name": "Gemini 2.5 Flash-Lite",
-      "vendor": "Google",
-      "category": "chat",
-      "released": "2025-06"
-    },
-    {
-      "key": "gemini-2.0-flash",
-      "name": "Gemini 2.0 Flash",
-      "vendor": "Google",
-      "category": "chat",
-      "released": "2025-01"
-    },
-    {
-      "key": "gemini-1.5-pro",
-      "name": "Gemini 1.5 Pro",
-      "vendor": "Google",
-      "category": "chat",
-      "released": "2024-02"
-    },
-    {
       "key": "gemini-deep-research",
       "name": "Gemini Deep Research",
       "vendor": "Google",
@@ -507,27 +367,6 @@
       "vendor": "Google",
       "category": "chat",
       "released": "2023-07"
-    },
-    {
-      "key": "gemma-4",
-      "name": "Gemma 4 (open-weight)",
-      "vendor": "Google",
-      "category": "chat",
-      "released": "2026-04"
-    },
-    {
-      "key": "gemma-3",
-      "name": "Gemma 3 (open-weight)",
-      "vendor": "Google",
-      "category": "chat",
-      "released": "2025-03"
-    },
-    {
-      "key": "gemini",
-      "name": "Gemini",
-      "vendor": "Google",
-      "category": "chat",
-      "label": "Gemini (Google) – other / unspecified version"
     },
     {
       "key": "grok-4.7",
@@ -579,20 +418,6 @@
       "released": "2025-07"
     },
     {
-      "key": "grok-3",
-      "name": "Grok 3",
-      "vendor": "xAI",
-      "category": "chat",
-      "released": "2025-02"
-    },
-    {
-      "key": "grok",
-      "name": "Grok",
-      "vendor": "xAI",
-      "category": "chat",
-      "label": "Grok (xAI) – other / unspecified version"
-    },
-    {
       "key": "copilot",
       "name": "Microsoft Copilot",
       "vendor": "Microsoft",
@@ -605,40 +430,11 @@
       "category": "chat"
     },
     {
-      "key": "muse-spark-1.3",
-      "name": "Muse Spark 1.3",
-      "vendor": "Meta",
-      "category": "chat",
-      "released": "2026-09"
-    },
-    {
-      "key": "muse-spark",
-      "name": "Muse Spark",
-      "vendor": "Meta",
-      "category": "chat",
-      "released": "2026",
-      "label": "Muse Spark (Meta) – other / unspecified version"
-    },
-    {
       "key": "llama-4",
       "name": "Llama 4",
       "vendor": "Meta",
       "category": "chat",
       "released": "2025-04"
-    },
-    {
-      "key": "llama-3.3",
-      "name": "Llama 3.3",
-      "vendor": "Meta",
-      "category": "chat",
-      "released": "2024-12"
-    },
-    {
-      "key": "llama-3.1",
-      "name": "Llama 3.1",
-      "vendor": "Meta",
-      "category": "chat",
-      "released": "2024-07"
     },
     {
       "key": "meta-ai",
@@ -675,52 +471,11 @@
       "released": "2025-12"
     },
     {
-      "key": "deepseek-r1",
-      "name": "DeepSeek R1",
-      "vendor": "DeepSeek",
-      "category": "chat",
-      "released": "2025-01"
-    },
-    {
       "key": "deepseek-v3",
       "name": "DeepSeek V3",
       "vendor": "DeepSeek",
       "category": "chat",
       "released": "2024-12"
-    },
-    {
-      "key": "deepseek",
-      "name": "DeepSeek",
-      "vendor": "DeepSeek",
-      "category": "chat",
-      "label": "DeepSeek – other / unspecified version"
-    },
-    {
-      "key": "mistral-large-4",
-      "name": "Mistral Large 4",
-      "vendor": "Mistral AI",
-      "category": "chat",
-      "released": "2026-10"
-    },
-    {
-      "key": "mistral-medium-3.5",
-      "name": "Mistral Medium 3.5",
-      "vendor": "Mistral AI",
-      "category": "chat",
-      "released": "2026-05"
-    },
-    {
-      "key": "mistral-large-3",
-      "name": "Mistral Large 3",
-      "vendor": "Mistral AI",
-      "category": "chat",
-      "released": "2025-12"
-    },
-    {
-      "key": "le-chat",
-      "name": "Le Chat",
-      "vendor": "Mistral AI",
-      "category": "chat"
     },
     {
       "key": "qwen3.8-max",
@@ -751,53 +506,11 @@
       "released": "2026-02"
     },
     {
-      "key": "qwen3-max",
-      "name": "Qwen3 Max",
-      "vendor": "Alibaba",
-      "category": "chat",
-      "released": "2025-09"
-    },
-    {
-      "key": "qwen3",
-      "name": "Qwen3",
-      "vendor": "Alibaba",
-      "category": "chat",
-      "released": "2025-04"
-    },
-    {
-      "key": "qwen",
-      "name": "Qwen",
-      "vendor": "Alibaba",
-      "category": "chat",
-      "label": "Qwen (Alibaba) – other / unspecified version"
-    },
-    {
       "key": "kimi-k3",
       "name": "Kimi K3",
       "vendor": "Moonshot AI",
       "category": "chat",
       "released": "2026-07"
-    },
-    {
-      "key": "kimi-k2.6",
-      "name": "Kimi K2.6",
-      "vendor": "Moonshot AI",
-      "category": "chat",
-      "released": "2026-04"
-    },
-    {
-      "key": "kimi-k2.5",
-      "name": "Kimi K2.5",
-      "vendor": "Moonshot AI",
-      "category": "chat",
-      "released": "2026-01"
-    },
-    {
-      "key": "kimi-k2",
-      "name": "Kimi K2",
-      "vendor": "Moonshot AI",
-      "category": "chat",
-      "released": "2025-07"
     },
     {
       "key": "glm-5.3",
@@ -887,19 +600,8 @@
       "category": "writing"
     },
     {
-      "key": "languagetool",
-      "name": "LanguageTool",
-      "category": "writing"
-    },
-    {
       "key": "jenni-ai",
       "name": "Jenni AI",
-      "category": "writing"
-    },
-    {
-      "key": "google-translate",
-      "name": "Google Translate",
-      "vendor": "Google",
       "category": "writing"
     },
     {
@@ -938,44 +640,9 @@
       "category": "research"
     },
     {
-      "key": "github-copilot",
-      "name": "GitHub Copilot",
-      "vendor": "GitHub",
-      "category": "coding"
-    },
-    {
-      "key": "cursor",
-      "name": "Cursor",
-      "category": "coding"
-    },
-    {
       "key": "julius-ai",
       "name": "Julius AI",
       "category": "data"
-    },
-    {
-      "key": "midjourney-v7",
-      "name": "Midjourney V7",
-      "category": "image",
-      "released": "2025-04"
-    },
-    {
-      "key": "midjourney",
-      "name": "Midjourney",
-      "category": "image",
-      "label": "Midjourney – other / unspecified version"
-    },
-    {
-      "key": "stable-diffusion-3.5",
-      "name": "Stable Diffusion 3.5",
-      "category": "image",
-      "released": "2024-10"
-    },
-    {
-      "key": "stable-diffusion",
-      "name": "Stable Diffusion",
-      "category": "image",
-      "label": "Stable Diffusion – other / unspecified version"
     },
     {
       "key": "ideogram",
@@ -990,13 +657,6 @@
       "released": "2026-04"
     },
     {
-      "key": "gpt-image-1",
-      "name": "GPT Image 1",
-      "vendor": "OpenAI",
-      "category": "image",
-      "released": "2025-04"
-    },
-    {
       "key": "dalle-3",
       "name": "DALL·E 3",
       "vendor": "OpenAI",
@@ -1009,13 +669,6 @@
       "vendor": "OpenAI",
       "category": "image",
       "label": "DALL·E (OpenAI) – other / unspecified version"
-    },
-    {
-      "key": "sora-2",
-      "name": "Sora 2",
-      "vendor": "OpenAI",
-      "category": "image",
-      "released": "2025-09"
     },
     {
       "key": "nano-banana-2.1",
@@ -1037,60 +690,6 @@
       "vendor": "Google",
       "category": "image",
       "released": "2025-11"
-    },
-    {
-      "key": "nano-banana",
-      "name": "Nano Banana (Gemini 2.5 Flash Image)",
-      "vendor": "Google",
-      "category": "image",
-      "released": "2025-08"
-    },
-    {
-      "key": "imagen-4",
-      "name": "Imagen 4",
-      "vendor": "Google",
-      "category": "image",
-      "released": "2025-05"
-    },
-    {
-      "key": "veo-3.1",
-      "name": "Veo 3.1",
-      "vendor": "Google",
-      "category": "image",
-      "released": "2025-10"
-    },
-    {
-      "key": "veo-3",
-      "name": "Veo 3",
-      "vendor": "Google",
-      "category": "image",
-      "released": "2025-05"
-    },
-    {
-      "key": "adobe-firefly",
-      "name": "Adobe Firefly",
-      "vendor": "Adobe",
-      "category": "image"
-    },
-    {
-      "key": "flux-2",
-      "name": "FLUX.2",
-      "vendor": "Black Forest Labs",
-      "category": "image",
-      "released": "2025-11"
-    },
-    {
-      "key": "flux-1",
-      "name": "FLUX.1",
-      "vendor": "Black Forest Labs",
-      "category": "image",
-      "released": "2024-08"
-    },
-    {
-      "key": "grok-imagine",
-      "name": "Grok Imagine",
-      "vendor": "xAI",
-      "category": "image"
     }
   ]
 }
